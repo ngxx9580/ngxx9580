@@ -10,6 +10,8 @@ I'm a Senior Financial Analyst with four years of experience deriving insights f
 - 📫 How to reach me: You can email me at isaacng94@gmail.com
 
 ### You can connect with me on:
+<a href=”https://www.linkedin.com/in/isaacng1/"><img align=”left” src=”https://raw.githubusercontent.com/ngxx9580/ngxx9580/main/images/linkedin.svg" alt=”Isaac Ng | LinkedIn” width=”21px”/></a>
+<a href=”https://https://www.instagram.com/_isaacng/"><img align=”left” src=”https://raw.githubusercontent.com/ngxx9580/ngxx9580/main/images/instagram.svg" alt=”Isaac Ng | LinkedIn” width=”21px”/></a>
 
 
 
