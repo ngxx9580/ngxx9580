@@ -4,7 +4,7 @@
 
 I'm a Senior Financial Analyst with four years of experience deriving insights from data and financial models for senior executives at RBC.  I'm currently pursuing a Masters in Management Analytics at the Smith School of Business @ Queen's University.
 
-- 🔭 I’m currently working on developing key skills and competencies to transition into a Data Science role. 
+- 🔭 I’m currently working on developing key skills and competencies to transition into a Data Science role after completing my Masters. 
 - 🌱 I’m currently learning R, Python, Machine Learning and Data Science skills. 
 - 👯 I’m looking to collaborate on Data Mining and Data Science projects. 
 - 📫 How to reach me: You can email me at isaacng94@gmail.com
