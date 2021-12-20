@@ -11,13 +11,8 @@ I'm a Senior Financial Analyst with four years of experience deriving insights f
 
 ### You can connect with me on:
 
-[![Linkedin Logo](/images/linkedin.svg)](www.linkedin.com/in/isaacng1/)
-[![Instagram Logo](/images/instagram.svg)](/www.instagram.com/_isaacng/)
-
-<a href=”https://www.linkedin.com/in/isaacng1/"><img align=”left” src=”https://raw.githubusercontent.com/ngxx9580/ngxx9580/main/images/linkedin.svg" alt=”Isaac Ng | LinkedIn” width=”21px”/></a>
-
-<a href=”https://https://www.instagram.com/_isaacng/"><img align=”left” src=”https://raw.githubusercontent.com/ngxx9580/ngxx9580/main/images/instagram.svg" alt=”Isaac Ng | LinkedIn” width=”21px”/></a>
-
+<a href="https://instagram.com/_isaacng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopalagoyal" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/isaacng1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopalagoyal" height="30" width="40" /></a>
 
 
 ### 📈 Github Statistics
