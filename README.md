@@ -9,10 +9,12 @@ I'm a Senior Financial Analyst with four years of experience deriving insights f
 - 👯 I’m looking to collaborate on Data Mining and Data Science projects. 
 - 📫 How to reach me: You can email me at isaacng94@gmail.com
 
+
 ### You can connect with me on:
 
 <a href="https://instagram.com/_isaacng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopalagoyal" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/isaacng1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopalagoyal" height="30" width="40" /></a>
+
 
 
 ### 📈 Github Statistics
