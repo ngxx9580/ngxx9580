@@ -18,7 +18,7 @@ I'm a Senior Financial Analyst with four years of experience deriving insights f
 
 
 ### 📈 Github Statistics
-[![Isaac’s github stats](https://github-readme-stats.vercel.app/api?username=ngxx9580)](https://github.com/ngxx9580)
+[![Isaac’s github stats](https://github-readme-stats.vercel.app/api?username=ngxx9580)](https://github.com/ngxx9580/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngxx9580&layout=compact)](https://github.com/ngxx9580)
 
